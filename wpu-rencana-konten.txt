@@ -3,6 +3,7 @@ rencana konten wpu
     + es6
     + framework javascript
       - view
+      - react
   - struktur data dasar
   - php frameworks
     - laravel
