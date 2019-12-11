@@ -2,7 +2,9 @@ rencana konten wpu
   - javascript
     + es6
     + framework javascript
-  - struktur data dasar
+      - angular
+      - react
   - php frameworks
+    - ralavel
   - interview
   - vlog
