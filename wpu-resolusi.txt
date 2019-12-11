@@ -2,3 +2,5 @@ wpu resolusi
  - konsisten bekerja sama dalam tim tepat waktu
  - membuat persiapan belajar php, untuk memperlancar kerja tim
  - kepingin lulus kuliah tahun ini
+ - membuat aplikasi web
+ - kolaborasi
